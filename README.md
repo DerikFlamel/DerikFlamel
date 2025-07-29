@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Erik Ramos</h1>
+<h1 align="center">Hey! I'm Erik Ramos 🧑🏻‍💻 </h1>
 
 # 🚀 About Me:
 I'm a freshman software engineering student at Anhanguera, passionate for exploring how things work and learn as much as I can about all the realms of codding.
