@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey 👋 I'm Erik Ramos
+
+## 🎓 About Me:
+I'm a freshman software engineering student at Anhanguera, passionate for exploring how things work and learn as much as I can abot all the realms of codding.
 
 <!--
 **DerikFlamel/DerikFlamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
