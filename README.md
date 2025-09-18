@@ -4,6 +4,10 @@
 I'm a freshman software engineering student at Anhanguera, passionate for exploring how things work and learn as much as I can about all the realms of codding.
 
 
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-ramos-3b178b208/)
+
+
 # 💻 Tech Stack:
 Languages: 
 
